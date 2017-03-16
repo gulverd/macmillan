@@ -1,0 +1,237 @@
+body{
+	background-color: #f3f3f3;
+}
+@font-face{
+	font-family: MyriadPro-Regular;
+	src: url(fonts/MyriadPro-Regular.otf);
+}
+#header_wrapper{
+	padding: 0;
+	margin: 0;
+}
+.navbar{
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+.navbar-default {
+   background-color: #c0352c;
+   border-color: #c0352c;
+}
+.navbar-default .navbar-nav>li>a{
+	color:white;
+	font-family: MyriadPro-Regular;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color:black;
+	font-family: MyriadPro-Regular;
+}
+.navbar-default .navbar-brand{
+	color:white;
+	font-family: MyriadPro-Regular;
+}
+.navbar-default .navbar-brand:hover{
+	color: black;
+	font-family: MyriadPro-Regular;
+}
+#slide_show_wrapper{
+	padding: 0;
+	margin-top: 0;
+	margin-bottom:20px;
+}
+#slide_pic{
+	width: 100%;
+}
+#footer_wrp{
+	padding: 0;
+}
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #cacaca;
+    font-family: MyriadPro-Regular;
+}
+.page-header a{
+	color: black;
+	font-size: 12px;
+	text-decoration: underline;
+	font-family: MyriadPro-Regular;
+}
+#main_trainings_row{
+	margin-top: 20px;
+}
+#main_training_pic{
+	height: 200px;
+	width: 100%;
+	border:1px solid #cacaca;
+}
+.portfolio-item a{
+	color: black;
+	font-family: MyriadPro-Regular;
+}
+.carousel-control.right {
+	background-image: none;
+}
+.carousel-control.left {
+	background-image: none;
+}
+#single_content_wrp{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#single_content_title_wrp{
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#single_content_title_wrp h3{
+	border-bottom: 1px solid #cacaca;
+	padding-bottom: 10px;
+}
+#single_content_pics_wrp{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+#single_content_desc_wrp{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#single_header_wpr{
+	text-align: center;
+	margin-top: 40px;
+}
+#footer_wrp{
+	margin-top: 20px;
+	padding: 0;
+	border-top: 1px solid #cacaca;
+	text-align: center;
+	padding-top: 10px;
+}
+#imga{
+	display:block;
+    margin:auto;
+}
+#footer_menu{
+	
+}
+#footer_menu li{
+	display: inline;
+	font-family: MyriadPro-Regular;
+	font-size: 13px;
+	margin-right: 10px;
+	margin-top:10px;
+}
+#footer_menu li a{
+	color: black;
+}
+#sidebar_suggestions{
+	padding-top: 40px;
+}
+#sidebar_suggs_wrp{
+	padding: 0;
+	margin-bottom: 10px;
+}
+#padd{
+	padding: 0;
+}
+.training_wrp{
+	margin-bottom: 20px;
+}
+.info{
+	position: absolute;
+    background-color: #f3f3f3;
+    bottom: 0;
+    color: black;
+    font-family: MyriadPro-Regular;
+    font-size: 13px;
+    text-align: center;
+    width: 100%;
+    padding-left: 5px;0
+    padding-right: 5px;
+    padding-bottom: 0;
+    padding-top: 0px;
+    min-height: 34px;
+    border-bottom: 1px solid #cacaca;
+    border-left: 1px solid #cacaca;
+    border-right: 1px solid #cacaca;
+}
+.info a{
+	color:black;
+}
+.search_hov{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 10%;
+	font-size: 115px;
+	position: absolute;
+	text-align: center;
+	color:white;
+	opacity: 0.5;
+	width: 100%;
+	cursor: pointer;
+	display: none;
+	color: #c0352c;
+}
+.filter_title{
+	font-size: 16px;
+	font-family: MyriadPro-Regular;
+	margin-bottom: 20px;
+}
+.filter_menu{
+	text-align: center;
+}
+.filter_menu ul{
+	padding: 0;
+}
+.filter_menu ul li{
+	text-decoration: none;
+	list-style-type: none;
+	border-bottom: 1px solid #cacaca;
+	height: 30px;
+	padding-top: 5px;
+}
+.filter_menu ul li a{
+	color:black;
+}
+#loading-image{
+	display: none;
+}
+.portfolio-item{
+	
+}
+.fl_wrp{
+	text-align: center;
+	color:black;
+	font-size: 20px;
+	font-family: MyriadPro-Regular;
+}
+.pst_wrp{
+	text-align: center;
+	color:black;
+	font-size: 18px;
+	font-family: MyriadPro-Regular;	
+}
+.dsc_wrp{
+	color:black;
+	font-size: 16px;	
+}
+#items{
+	background-color: #dedede;
+    border: 1px solid #cacaca;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+#itemsa{
+	background-color: #dedede;
+    border: 1px solid #cacaca;
+    padding-top: 13px;
+    margin-bottom: 20px;
+}
+#itemsai{
+	background-color: #dedede;
+    border: 1px solid #cacaca;
+    padding-top: 13px;
+    margin-bottom: 20px;
+    padding-bottom: 13px;
+}
